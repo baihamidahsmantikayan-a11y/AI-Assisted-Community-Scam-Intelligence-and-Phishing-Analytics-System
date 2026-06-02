@@ -1,0 +1,9 @@
+## Project Scope
+
+The Scam AI Detection System is a web-based application designed to help identify and analyze potential scam messages, emails, and online communications using artificial intelligence. The system allows users to submit scam-related reports for automated analysis and risk assessment.
+
+The system includes features such as scam report submission, AI-powered scam detection, keyword analysis, risk classification, and analytics visualization. Users can view analysis results, detected suspicious keywords, and risk levels through an interactive dashboard.
+
+The project focuses on detecting common scam patterns and providing insights through data analytics and reporting tools. It also maintains activity logs and notifications to support system monitoring and user awareness.
+
+The scope of the project is limited to scam detection and analysis based on the data submitted to the system. It does not provide legal investigation services, law enforcement functions, or real-time monitoring of external platforms.
