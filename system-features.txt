@@ -1,0 +1,73 @@
+System Features
+User Authentication
+Secure login and logout
+Role-based access (Admin/User)
+
+Scam Report Management
+Create new scam reports
+View all submitted reports
+Edit and update reports
+Delete reports
+
+AI-Powered Scam Analysis
+Automatic scam detection
+AI confidence scoring
+Scam category classification
+Pattern recognition and analysis
+
+Risk Assessment System
+High Risk classification
+Medium Risk classification
+Low Risk classification
+Visual risk distribution analytics
+
+Keyword Detection
+Identifies suspicious keywords
+Detects common scam terms such as:
+Links
+OTP
+Password
+Verification
+Rewards
+Urgent messages
+
+Dashboard & Analytics Features
+Real-Time Dashboard
+Total reports counter
+Average AI score
+Top scam type monitoring
+Risk level summary
+
+Visual Analytics
+Risk level distribution chart
+Monthly reports chart
+Keyword detection graph
+Scam trend analysis
+
+Scam Intelligence Module
+Scam pattern identification
+Emerging scam monitoring
+AI-generated recommendations
+Confidence level analysis
+
+Reporting Features
+Report Generation
+Organized report listing
+Historical report records
+Monthly trend monitoring
+
+Search and Filtering
+Filter reports by risk level
+Search scam reports
+Sort reports by category or date
+
+Administrative Features
+System Monitoring
+Dashboard overview
+Performance tracking
+Scam statistics monitoring
+
+About System Information
+System description
+AI methodology explanation
+User guidance and documentation
