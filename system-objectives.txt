@@ -1,8 +1,0 @@
-System Objectives
-
-1. Detect potential scam and phishing messages.
-2. Allow users to report suspicious activities.
-3. Provide threat analysis and reports.
-4. Improve community awareness of cyber threats.
-5. Assist administrators in monitoring reports.
-6. People will be more aware about the phishing scams.
