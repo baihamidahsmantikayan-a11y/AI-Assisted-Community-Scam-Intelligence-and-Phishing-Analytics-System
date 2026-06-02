@@ -1,0 +1,12 @@
+Planned Database Tables
+
+- users
+- admins
+- reports
+- scam_analysis
+- risk_assessments
+- detected_keywords
+- analytics_data
+- notifications
+- activity_logs
+- system_settings
