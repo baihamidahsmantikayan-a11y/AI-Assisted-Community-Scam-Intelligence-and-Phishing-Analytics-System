@@ -1,0 +1,8 @@
+Data Flow Design
+
+- User submits scam report
+- System receives and processes data
+- AI analyzes message content
+- Risk score is generated
+- Results stored in database
+- Dashboard displays analytics
