@@ -1,0 +1,7 @@
+Report Validation Rules
+
+- Check duplicate reports
+- Validate URL format
+- Verify input fields
+- Detect spam submissions
+- Ensure report completeness
