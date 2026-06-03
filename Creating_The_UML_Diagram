@@ -1,0 +1,58 @@
+Creating the UML Diagram for our system called as Scam phishing.
+
+First thing that i did was tp outline the Use Case, I created our Use Case base it on our system itself. It's basic since our system only had,
+1 entity such as the administrator only, so all of the use case their was all directly pointed out to 1 entity which is the administrator.
+
+Then for ERD, same as usual i just check the tables the we created through our system inside, afther that i have gathered the difference and connection
+between the primary and foreign key, same as usual that our entity is only 1 user.  
+
+for the Data Flow level 1 i have out outlined first the level 0 to level 1 flow, comparing both of our front and back end.
+
+All of this was based on our system ofcourse and since it was all due to only 1 entity that made me to be consistent and accurate throughout the process of creating this diagram.
+
+Upon creating this diagram, I based it and identify through our system modules:
+Module 1 - Authentication
+
+Functions:
+Login
+Logout
+
+Module 2 - Dashboard
+
+Functions:
+Total Reports
+Average AI Score
+Top Scam Types
+Risk Distribution
+Recent Reports
+
+Module 3 - Report Management
+
+Functions:
+Add Report
+View Report
+Edit Report
+Delete Report
+
+Module 4 - AI Analysis
+
+Functions:
+Keyword Detection
+Pattern Matching
+Risk Scoring
+Risk Classification
+Recommendations
+
+Module 5 - Scam Intelligence
+
+Functions:
+Scam Categories
+Phishing Patterns
+Threat Information
+
+Module 6 - About System
+
+Functions:
+Overview
+Features
+AI Description
